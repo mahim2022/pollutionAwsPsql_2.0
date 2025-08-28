@@ -11,10 +11,10 @@ import Footer from '../components/Footer';
 import { ReactNode } from 'react';
 
 
-interface PageProps {
-  disableCustomTheme?: boolean;
-  children?: ReactNode;
-}
+// interface PageProps {
+//   disableCustomTheme?: boolean;
+//   children?: ReactNode;
+// }
 
 export default function Blog(props: { disableCustomTheme?: boolean }) {
   return (
