@@ -198,6 +198,9 @@ Restart your pm2 process:
 pm2 restart all
 
 
+Need to configure cors to "alloweddevorigins" in next config
+
+
 
 ---------------------------------------------------
 connecting rds psql through ec2 instance though ssh
